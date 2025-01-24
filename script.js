@@ -6,7 +6,7 @@ const gif = document.querySelector(".gif");
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "MARK THE DATE 😘 ";
-  gif.src = "download (1).gif"
+  gif.src = "Celebrating Happy Birthday Sticker by Tubby Nugget.gif"
 });
 
 // Make the No button move randomly on hover
